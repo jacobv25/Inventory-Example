@@ -1,5 +1,9 @@
 package sample;
+/***********************************************************************
+By Jacob Valenzuela
 
+This is the driver that starts the game.
+***********************************************************************/
 public class Game {
 
     public static void main(String[] args) {
